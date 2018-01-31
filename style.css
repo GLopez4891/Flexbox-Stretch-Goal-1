@@ -1,0 +1,34 @@
+.menu-container {
+    color: white;
+    background-color: blue;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    height: 500px;
+}
+.box1  {
+    color: aliceblue;
+    background-color: rgb(117, 144, 167);
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    align-items: stretch;
+    flex: 1;
+}
+.box2  {
+    color: aliceblue;
+    background-color: rgb(25, 78, 126);
+    height: 500px;
+    display: flex;
+    justify-content: space-between;
+    flex: 2;
+}
+.box3  {
+    color: aliceblue;
+    background-color: rgb(50, 109, 161);
+    height: 500px;
+    width: 150px;
+    display: flex;
+    justify-content: space-between;
+    flex: initial;
+}
